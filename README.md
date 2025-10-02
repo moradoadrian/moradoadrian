@@ -35,15 +35,25 @@
 
 ---
 
-### 🚀 Experience & Projects
-- 📱 **Guía de Trámites Guanajuato**  
-  Mobile app built with **React Native + Firebase** to display government services and procedures, featuring login, filters, and Google authentication.  
+### 🚀 Professional Experience
 
-- 🌐 **Angular Dashboards**  
-  Experience building dashboards using **NgRx, RxJS, and Tailwind**, including Excel file upload and chart visualization.  
+- **Frontend Developer** – Dirección General del Registro Civil (Apr 2024 – Present)  
+  - Developed Angular platforms to digitize legal procedures, improving citizen services.  
+  - Automated workflows with dynamic forms, reactive logic, and advanced validations.  
+  - Contributed to the "Digital Folder" project, centralizing user requests, documents, and tracking.  
+  - Designed reusable, scalable UI components to accelerate delivery of new modules.  
 
-- 🔧 **APIs & Integrations**  
-  Consumed and integrated REST APIs in **Angular**, with error handling, request optimization, and reactive patterns.  
+- **IT Support & Developer** – Hospitales MAC (Nov 2020 – Jan 2024)  
+  - Provided first-level support for the Tasy EMR system, ensuring smooth hospital operations.  
+  - Automated key reports using Oracle and Python, optimizing decision-making for admins and medical staff.  
+  - Implemented automated scripts for weekly Excel reports on accounts payable/receivable.  
+  - Participated in the migration and implementation of electronic invoicing 4.0 within EMR.  
+
+- **Frontend Developer** – Infoexpo (May 2018 – Nov 2020)  
+  - Built web applications using PHP with Symfony 3 and PostgreSQL databases.  
+  - Designed and implemented responsive interfaces with HTML, CSS, and JavaScript.  
+  - Optimized system performance and database queries for scalability.  
+ 
 
 ---
 
