@@ -1,10 +1,9 @@
 <h1 align="center">🚀 Building the Web, One Line of Code at a Time</h1>
-<h3 align="center">Hi, I'm Adrián Morado — Frontend Developer & Angular Enthusiast</h3>
-
+<h3 align="center">Hi, I'm Adrián Morado — Senior Frontend Developer | Angular Specialist</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Frontend+Developer;Passionate+about+Angular;RxJS+%26+NgRx+Fan;Building+apps+with+Firebase;Learning+React+%26+React+Native;Always+improving+my+skills" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Senior+Frontend+Developer;Angular+Specialist;NgRx+%26+RxJS+Advocate;Building+Scalable+Apps+with+Firebase;Exploring+React+%26+React+Native;Passionate+about+Clean+Architecture" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,16 +12,16 @@
 ---
 
 ### 👨‍💻 About Me
-- 💻 Frontend Developer specialized in **Angular**
-- 🌱 Currently learning **React, React Native, and NgRx**
-- 🔥 Interested in **software architecture, API consumption, and Angular performance optimization**
-- 👯 Looking to collaborate on **innovative projects with real-world impact**
-- ⚡ Fun fact: Bad at cooking 🍳, but great at **cooking intuitive UIs 😎**
-- 📫 Contact me: **moradoadrian@gmail.com**
+- 💻 Senior **Frontend Developer** specialized in **Angular ecosystem**.  
+- 🚀 Experienced in **scalable architectures**, **state management** (NgRx), and **API integration**.  
+- 🌱 Expanding into **React & React Native** to build cross-platform solutions.  
+- 🔍 Focused on **performance optimization**, **clean code practices**, and **reusable components**.  
+- 🤝 Open to collaborate on projects that **solve real-world problems** and **impact users positively**.  
+- ⚡ Fun fact: I may burn a tortilla, but I never burn a deadline.  
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Core Skills
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/>
@@ -35,36 +34,35 @@
 
 ---
 
-### 🚀 Professional Experience
+### 💼 Professional Experience
 
 - **Frontend Developer** – Dirección General del Registro Civil (Apr 2024 – Present)  
-  - Developed Angular platforms to digitize legal procedures, improving citizen services.  
-  - Automated workflows with dynamic forms, reactive logic, and advanced validations.  
-  - Contributed to the "Digital Folder" project, centralizing user requests, documents, and tracking.  
-  - Designed reusable, scalable UI components to accelerate delivery of new modules.  
+  - Led Angular projects to **digitize legal procedures** and improve citizen access.  
+  - Built **reactive dynamic forms** with advanced validation for process automation.  
+  - Developed **"Digital Folder"**, centralizing documents and tracking for users.  
+  - Created **reusable, scalable UI libraries**, speeding up development for new modules.  
 
 - **IT Support & Developer** – Hospitales MAC (Nov 2020 – Jan 2024)  
-  - Provided first-level support for the Tasy EMR system, ensuring smooth hospital operations.  
-  - Automated key reports using Oracle and Python, optimizing decision-making for admins and medical staff.  
-  - Implemented automated scripts for weekly Excel reports on accounts payable/receivable.  
-  - Participated in the migration and implementation of electronic invoicing 4.0 within EMR.  
+  - Ensured continuity of hospital operations by supporting the **Tasy EMR system**.  
+  - Automated strategic reports with **Oracle SQL & Python**, saving hours of manual work weekly.  
+  - Developed **Excel automation scripts** for financial processes (accounts payable/receivable).  
+  - Contributed to the **electronic invoicing 4.0 migration** in healthcare systems.  
 
 - **Frontend Developer** – Infoexpo (May 2018 – Nov 2020)  
-  - Built web applications using PHP with Symfony 3 and PostgreSQL databases.  
-  - Designed and implemented responsive interfaces with HTML, CSS, and JavaScript.  
-  - Optimized system performance and database queries for scalability.  
- 
+  - Delivered web apps with **Symfony 3 + PostgreSQL**, integrating responsive UIs.  
+  - Optimized **queries and performance**, improving scalability of core systems.  
+  - Designed **user-focused experiences** with modern HTML, CSS, and JavaScript.  
 
 ---
 
 ### 📚 Currently Learning
-- React + React Native (mobile development)  
-- Advanced NgRx (state management in Angular)  
-- Clean architecture & best practices in frontend development  
+- React + React Native for mobile and hybrid apps.  
+- Advanced NgRx patterns for **complex state management**.  
+- Frontend **clean architecture, testing & performance optimization**.  
 
 ---
 
-### 🌎 Connect with me
+### 🌎 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/moradoadrian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:moradoadrian@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
