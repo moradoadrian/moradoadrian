@@ -55,6 +55,25 @@
 
 ---
 
+### 🌟 Featured Projects
+
+- **📑 Plataforma de Inexistencias**  
+  - Developed for the **Registro Civil** to manage and track inexistence certificates.  
+  - Built with **Angular + NgRx**, handling **complex state flows** and secure API integrations.  
+  - Improved traceability and reduced processing time for legal procedures.  
+
+- **🍗 Sistema de Pedidos – Alitas**  
+  - Custom web app for a local restaurant to manage **orders, tables, and billing**.  
+  - Implemented a **real-time order dashboard** with **Angular + Firebase**.  
+  - Streamlined operations and reduced errors in manual order tracking.  
+
+- **📊 Módulo de Anotaciones Fiscales**  
+  - Part of a larger government system for managing **judicial and fiscal annotations**.  
+  - Focused on **dynamic forms**, **validations**, and **document management workflows**.  
+  - Reduced manual errors and improved compliance with fiscal regulations.  
+
+---
+
 ### 📚 Currently Learning
 - React + React Native for mobile and hybrid apps.  
 - Advanced NgRx patterns for **complex state management**.  
