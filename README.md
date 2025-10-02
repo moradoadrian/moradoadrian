@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Building the Web, One Line of Code at a Time</h1>
-<h3 align="center">Hi, I'm Adrián Morado — Senior Frontend Developer | Angular Specialist</h3>
+<h3 align="center">Hi, I'm Adrián Morado — Frontend Developer | Angular Specialist</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
