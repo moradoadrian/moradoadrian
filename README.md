@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 💻 Senior **Frontend Developer** specialized in **Angular ecosystem**.  
+- 💻 **Frontend Developer** specialized in **Angular ecosystem**.  
 - 🚀 Experienced in **scalable architectures**, **state management** (NgRx), and **API integration**.  
 - 🌱 Expanding into **React & React Native** to build cross-platform solutions.  
 - 🔍 Focused on **performance optimization**, **clean code practices**, and **reusable components**.  
